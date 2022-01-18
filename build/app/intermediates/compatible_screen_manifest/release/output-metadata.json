@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.u6amtech.flutter_sixvalley_ecom",
+  "variantName": "release",
+  "elements": []
+}
